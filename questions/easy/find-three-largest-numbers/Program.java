@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Program {
   public static int[] findThreeLargestNumbers(int[] array) {
 	int[] solutions=new int[]{Integer.MIN_VALUE,Integer.MIN_VALUE,Integer.MIN_VALUE};

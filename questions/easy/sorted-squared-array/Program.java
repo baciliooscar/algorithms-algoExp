@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Program {
   public int[] sortedSquaredArray(int[] array) {
 		array=formatArray(array);
